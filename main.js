@@ -4,7 +4,7 @@ const app = express();
 let client = new discord.Client()
 
 function fetchUser(id, res) {
-    m_user = {
+    let m_user = {
         userId: "",
         username: "",
         createdAt: "",
