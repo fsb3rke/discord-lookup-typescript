@@ -1,3 +1,5 @@
+// AUTHOR : Berke (fsb3rke)
+
 import DiscordJS, { IntentsBitField } from 'discord.js'
 import dotenv from 'dotenv'
 import express from 'express'
