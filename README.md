@@ -8,9 +8,13 @@ You have to install [node.js](https://nodejs.org/en/)\
 Use the package manager `npm (node package manager)` to install foobar.
 
 ```bash
-> npm i -D typescript @types/express @types/node
-> npm i discord.js dotenv
-> npm i -g typescript ts-node
+npm i -D typescript @types/express @types/node
+```
+```bash
+npm i discord.js dotenv
+```
+```bash
+npm i -g typescript ts-node
 ```
 
 ## Start
